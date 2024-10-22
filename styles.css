@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(255, 182, 193, 0.8); 
+    color: rgba(128, 0, 128, 1); 
+    font-family: Arial, sans-serif;
+    text-align: left;
+    padding: 50px;
+}
+h1 {
+    margin-bottom: 20px;
+}
